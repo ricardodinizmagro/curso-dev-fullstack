@@ -1,0 +1,15 @@
+body {
+    background-image: url(graemiqueias.jpg);
+    background-position: 100% 10%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    }
+
+p {
+    color: #6d0f4e;
+}
+
+.foto {
+    width: 400px;
+}

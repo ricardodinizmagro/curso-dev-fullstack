@@ -1,0 +1,63 @@
+body {
+    background: #778874;
+    font-family: 'Pattaya', sans-serif;
+    color: #af0e0e;
+    }
+
+.conteneir{
+    width: 850px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.redes-social{
+    width: 30px;
+  }
+
+.link-icons{
+    text-decoration: none;
+}
+
+.linkedin{
+    margin: 0 0 0 15px;
+}
+
+
+h1{
+    margin-bottom: 0;
+    margin-top: 0;
+    letter-spacing: 1px;
+    color:aliceblue;
+}
+
+.titulo-principal{
+    text-align: center;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color:#d3d4ce
+ }
+
+p {
+    color: #6d0f4e;
+}
+
+.foto-principal {
+   width: 600px;
+   border: 8px double #000000;
+   border-radius: 55% 35% 35% 55%;
+   margin: 30px 100px 20px 100px;
+   padding:10px;
+   box-shadow: 5px 5px 50px #af1111;
+
+}
+

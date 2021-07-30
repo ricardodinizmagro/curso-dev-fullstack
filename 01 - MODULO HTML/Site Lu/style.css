@@ -1,0 +1,53 @@
+body {
+    font-family:'Pacifico', cursive;
+    letter-spacing: 3px;
+        
+}
+
+.contanier {
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.logo {
+    margin-right: 0px;
+    margin-top: 0px;
+    width: 250px;
+}
+
+.objetivo {
+    color:brown;
+    font-weight: 900;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+
+.titulo-cardapio {
+    font-size: 40px;
+    color:brown;
+    margin-bottom: 2px;
+    
+}
+
+
+.cardapio {
+    width:400px;
+    font-weight: 900;
+}
+
+.copos {
+    width:150px;
+    text-align: center center;
+}
+
+.imagens {
+    margin: 400px;
+    padding-right: -900px;
+    margin-left: 0;
+}
